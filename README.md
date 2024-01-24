@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning software architecture
 - 💞️ I’m a full-stack developer
 - 📫 How to reach me:
-https://www.facebook.com/kimphi.le.12/
 
 <!---
 KimPhiJSCDVLP/KimPhiJSCDVLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
