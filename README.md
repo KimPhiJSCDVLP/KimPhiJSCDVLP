@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Louis Phi
-- 👀 I’m interested in programming and technology
-- 🌱 I’m currently learning software architecture
-- 💞️ I’m a full-stack developer
-- 📫 How to reach me:
+# 👋 Hi there, I'm Louis  
 
-<!---
-KimPhiJSCDVLP/KimPhiJSCDVLP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 **Senior Full-Stack Developer**
+
+Welcome to my GitHub! I’m a passionate software engineer with **7 years of experience** building scalable web applications, leading development teams, and architecting full-stack solutions.  
+
+---
+
+### 🧠 About Me
+
+- 💻 I specialize in **JavaScript / TypeScript**, **React**, **Next.js**, **Node.js**, **Express**, and **NestJS**.  
+- 🗄️ Strong experience with **PostgreSQL**, **MongoDB**, and **Redis**.  
+- ☁️ Skilled in **cloud-native development** with **AWS**, **Docker**, and **Kubernetes**.  
+- 🧩 Advocate for **clean architecture**, **TDD**, and **scalable design patterns**.  
+- 🧑‍🏫 Mentor and contributor to open-source projects; passionate about developer growth.  
+- 🌱 Currently exploring **micro frontends**, and **DevOps automation**.  
